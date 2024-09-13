@@ -16,7 +16,7 @@ html, body {
 .delfin {
     position: absolute;
     left: 0;
-    top: 50%;
+    top: 40%;
     transform: translateY(-50%);
     width: auto; /* Ajusta el tamaño del delfín según sea necesario */
     height: 700px; /* Ajusta la altura del delfín según sea necesario */
@@ -33,7 +33,7 @@ html, body {
 .texto {
     position: absolute;
     right: 20px;
-    bottom: 20px;
+    bottom: 80px;
     color: white; /* Cambia el color del texto según sea necesario */
     font-size: 50px; /* Ajusta el tamaño de la fuente según sea necesario */
     background-color: rgba(0, 0, 0, 0.5); /* Opcional: fondo semi-transparente para el texto */
